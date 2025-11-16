@@ -1,2 +1,2 @@
-# my-first-project
-This is my first GitHub project.
+# sales-data-analysis
+Data analysis project using SQL and Google Sheets
